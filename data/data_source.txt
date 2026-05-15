@@ -1,1 +1,4 @@
-
+Данные: Brazilian E-Commerce Dataset от Olist (Kaggle)
+Ссылка: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+Использованы таблицы: customers, orders, payments, reviews, products, category_translation.
+Файлы не загружены в репозиторий из-за размера.
